@@ -8,5 +8,7 @@
   * www.kaggle.com (cloud-based Jupyter notebooks)
   * https://colab.research.google.com/
 
+## Materials
+* https://github.com/davewadestein/Python-Fundamentals
 
  
