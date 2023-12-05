@@ -4,6 +4,7 @@
 ## Setup
 * Install if you can
   * www.anaconda.com (install, if you can)
+     * if on Windows you want to install as Admin (right-click on the installer)
 * Cloud-based
   * www.kaggle.com (cloud-based Jupyter notebooks)
   * https://colab.research.google.com/
