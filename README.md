@@ -15,3 +15,6 @@
 * https://xoyondo.com/op/6cjmx5j92dmeyq8
 * https://xoyondo.com/op/3i46xn95rqew4gm
  
+# Day 1 Recording:
+* https://pluralsight.zoom.us/rec/share/nKOUdFKXDPgold09eIcFpQrvkfrHCP5rIKuh_3i2eDizSzY-JLep-MJMnSMfw0rf.L70aC0ac_3sTIL08 
+* Passcode: %#GY08@c
