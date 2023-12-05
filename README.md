@@ -11,4 +11,7 @@
 ## Materials
 * https://github.com/davewadestein/Python-Fundamentals
 
+## Tuesday Polls
+* https://xoyondo.com/op/6cjmx5j92dmeyq8
+* https://xoyondo.com/op/3i46xn95rqew4gm
  
