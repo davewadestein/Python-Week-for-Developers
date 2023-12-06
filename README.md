@@ -1,4 +1,6 @@
 # Python-Week-for-Developers
+
+## How to reach me!
 * dave@developintelligence.com
 
 ## Setup
