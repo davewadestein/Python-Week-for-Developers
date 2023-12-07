@@ -14,10 +14,10 @@
 ## Materials
 * https://github.com/davewadestein/Python-Fundamentals
 
-## Wednesday Polls
-* https://xoyondo.com/op/vimfpcvi1zdwj1o
-* https://xoyondo.com/op/d3jkee4032mgq32
-
+## Day 3 Recording
+* https://pluralsight.zoom.us/rec/share/gKj5QXcL2Y4TSm1tIyDcd0uq7VRNFpAcSeOIHXWDBn51VWQrbGN54epSJ10slncF.xPMYnObi4-briiKy 
+* Passcode: .=tptvK2
+* 
 ## Day 2 Recording
 * https://pluralsight.zoom.us/rec/share/nuNok-idEtLgIbBMoJl7K7Fz_ULzO4o7orHeMBdFzV_PRlseRqyrjPjuS1lA67eg.SZvxQMWZOkbtO4La
 * Passcode: ^bq2^F6Z
