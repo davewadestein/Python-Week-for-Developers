@@ -3,6 +3,9 @@
 ## How to reach me!
 * dave@developintelligence.com
 
+## Evaluation link:
+https://www.surveymonkey.com/r/L82B3P7
+
 ## Setup
 * Install if you can
   * www.anaconda.com (install, if you can)
@@ -17,7 +20,7 @@
 ## Day 3 Recording (partial)
 * https://pluralsight.zoom.us/rec/share/gKj5QXcL2Y4TSm1tIyDcd0uq7VRNFpAcSeOIHXWDBn51VWQrbGN54epSJ10slncF.xPMYnObi4-briiKy 
 * Passcode: .=tptvK2
-* 
+  
 ## Day 2 Recording
 * https://pluralsight.zoom.us/rec/share/nuNok-idEtLgIbBMoJl7K7Fz_ULzO4o7orHeMBdFzV_PRlseRqyrjPjuS1lA67eg.SZvxQMWZOkbtO4La
 * Passcode: ^bq2^F6Z
