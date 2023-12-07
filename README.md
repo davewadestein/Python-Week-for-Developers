@@ -14,7 +14,7 @@
 ## Materials
 * https://github.com/davewadestein/Python-Fundamentals
 
-## Day 3 Recording
+## Day 3 Recording (partial)
 * https://pluralsight.zoom.us/rec/share/gKj5QXcL2Y4TSm1tIyDcd0uq7VRNFpAcSeOIHXWDBn51VWQrbGN54epSJ10slncF.xPMYnObi4-briiKy 
 * Passcode: .=tptvK2
 * 
