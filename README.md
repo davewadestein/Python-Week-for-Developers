@@ -17,6 +17,10 @@ https://www.surveymonkey.com/r/L82B3P7
 ## Materials
 * https://github.com/davewadestein/Python-Fundamentals
 
+## Day 4 Recording
+* https://pluralsight.zoom.us/rec/share/kP0bZLhg0m9XOePgKfAiEX6-kWmt_9dtX7fjbmCVrYcRq9iTwdf3v3npPmZd1-By.ch2MnGzZ5_2s6YHv 
+* Passcode: ZW1bgY5.
+  
 ## Day 3 Recording (partial)
 * https://pluralsight.zoom.us/rec/share/gKj5QXcL2Y4TSm1tIyDcd0uq7VRNFpAcSeOIHXWDBn51VWQrbGN54epSJ10slncF.xPMYnObi4-briiKy 
 * Passcode: .=tptvK2
